@@ -1,5 +1,5 @@
 # Voice Add Widget
-Android widget project created for reebee's Android app; 
+Android widget project I created for one of my co-op's; 
 includes the core functionality, minus some setup stuff
 
 ## Description
